@@ -9,7 +9,7 @@ public class Test {
 
 		System.out.println("now doing merge the branch...");
 		
+		
 		System.out.println("In second branch Test class changes...");
 	}
-
 }
