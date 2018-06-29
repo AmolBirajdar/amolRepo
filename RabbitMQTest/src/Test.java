@@ -8,6 +8,8 @@ public class Test {
 		System.out.println("In child branch Test class changes...");
 
 		System.out.println("now doing merge the branch...");
+		
+		System.out.println("In second branch Test class changes...");
 	}
 
 }
