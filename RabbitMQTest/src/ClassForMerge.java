@@ -5,6 +5,7 @@ public class ClassForMerge {
 
 		System.out.println("Class for merge...");
 		System.out.println("New Lineee...");
+		System.out.println("child branch added...");
 		
 	}
 
